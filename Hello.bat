@@ -1,3 +1,5 @@
 echo "Branch Demo"
-echi "I am in Master Branch'
+echo "I am in Master Branch"
+echo "Changes for jenkins github change trigger"
+
 
